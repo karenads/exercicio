@@ -3,6 +3,6 @@ package br.senac.com.api_exercicio;
 public class Testezinho {
     public void testezinhoMetodo(){
 
-        System.out.println("Hello guys!");
+        System.out.println("Hello gays!");
     }
 }
